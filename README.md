@@ -6,3 +6,4 @@ Estructura la arquitectura
 Lee mucho código fuente
 Coloca comentarios
 Testea tu código
+Hola como estan
